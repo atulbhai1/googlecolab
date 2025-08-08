@@ -1,0 +1,16 @@
+Item Name,Total Fat,Calories
+Decaf Coffee,0,0
+Cupcake Pancakes,24,810
+Original Buttermilk Pancakes,24,690
+Swedish Crepes,30,610
+Belgian Waffle,33,570
+Gluten-Friendly Belgian Waffle,13,410
+Original French Toast,36,740
+Breakfast Sampler without eggs,59,900
+Eggs Benedict,52,860
+Omelette,28,400
+Mozza sticks,33,660
+House Salad NO DRESSING,0,30
+Ranch,22,210
+Buttered Corn,10,180
+Onion Rings,30,550
